@@ -1,7 +1,7 @@
 
 ## Сайт визитка
 
-Сайт предназначенный для консультирования компаний в области налоговых сборов.
+Сайт для компании , занимающейся оказанием бухгалтерских услуг , проведением налоговых консультаций и сопровождением аудита.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
